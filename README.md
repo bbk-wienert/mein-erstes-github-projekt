@@ -20,3 +20,9 @@ Mein Lieblingsfach ist: __________
 ## Mein Ziel
 
 Ich möchte mit GitHub lernen, wie man gemeinsam an Projekten arbeitet.
+
+## Meine Änderung
+
+Diese Änderung habe ich in meinem eigenen Branch erstellt. 
+
+Ich teste gerade Branches auf GitHub.
